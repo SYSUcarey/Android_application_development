@@ -29,7 +29,7 @@
 
 实现一个Android应用，界面呈现如图中的效果。 
 
-[![](https://chenbb-1257745007.cos.ap-guangzhou.myqcloud.com/blog/20181010134337.png)](https://chenbb-1257745007.cos.ap-guangzhou.myqcloud.com)
+[![](https://chenbb-1257745007.cos.ap-guangzhou.myqcloud.com/blog/20181010134337.png)](https://chenbb-1257745007.cos.ap-guangzhou.myqcloud.com/blog/20181010134337.png)
 
 #### 要求
 
