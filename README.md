@@ -1,4 +1,4 @@
-# Android_application_development
+# Android application development
 ## 说明
 
 - 中山大学安卓应用开发课程实验作业
