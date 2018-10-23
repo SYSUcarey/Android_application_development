@@ -43,6 +43,7 @@ public class StaticReceiver extends BroadcastReceiver {
                     .setSmallIcon(R.mipmap.empty_star)
                     .setAutoCancel(true)
                     .setContentIntent(pendingIntent)
+                    .setShowWhen(true)
                     .build();
             //创建通知时指定channelID
             builder.setChannelId(channelID);
